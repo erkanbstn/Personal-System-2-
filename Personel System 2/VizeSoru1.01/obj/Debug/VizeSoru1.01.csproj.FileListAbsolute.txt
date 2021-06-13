@@ -1,0 +1,27 @@
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\bin\Debug\VizeSoru1.01.exe.config
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\bin\Debug\VizeSoru1.01.exe
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\bin\Debug\VizeSoru1.01.pdb
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form1.resources
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Properties.Resources.resources
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.exe
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.pdb
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form2.resources
+D:\Microsoft Visual Studio\Applications\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form3.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\bin\Debug\VizeSoru1.01.exe.config
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\bin\Debug\VizeSoru1.01.exe
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\bin\Debug\VizeSoru1.01.pdb
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form1.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form2.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form3.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Properties.Resources.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.exe
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1.01.pdb
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Anasayfa.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form4.resources
+C:\Users\Mert\Desktop\VizeSoru1.01\VizeSoru1.01\obj\Debug\VizeSoru1._01.Form5.resources
